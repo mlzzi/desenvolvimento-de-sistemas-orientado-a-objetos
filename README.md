@@ -45,3 +45,70 @@ O grupo deve se organizar para criar o arquivo de documentação (README.md) e a
 - Todos os protótipos desenvolvidos;
 
 - Os diagramas criados na fase 1, em formato Markdown.
+
+# Projeto de Sistema de Cadastros
+
+## 🔹 Descrição do Projeto
+<!-- Adicione aqui a descrição do projeto -->
+
+---
+
+## 🎯 Objetivos
+<!-- Liste aqui os objetivos do projeto -->
+
+---
+
+## 👥 Integrantes do Grupo
+<!-- Coloque aqui os nomes dos integrantes -->
+
+---
+
+## 🖥️ Protótipos de Interface
+<!-- Adicione aqui os protótipos -->
+### 1. Cadastro de Pessoa Física
+![Protótipo Pessoa Física](./Protótipos/Cadastro_PessoaFisica.png)
+
+### 2. Cadastro de Pessoa Jurídica
+![Protótipo Pessoa Jurídica](./Protótipos/Cadastro_PessoaJuridica.png)
+
+### 3. Cadastro de Professores
+![Protótipo Professores](./Protótipos/Cadastro_Professores.png)
+
+### 4. Cadastro de Fornecedores
+![Protótipo Fornecedores](./Protótipos/Cadastro_Fornecedores.png)
+
+### 5. Cadastro de Alunos
+![Protótipo Alunos](./Protótipos/Cadastro_Alunos.png)
+
+---
+
+## 📊 Diagramas da Fase 1
+<!-- Adicione aqui os diagramas de casos de uso -->
+![Diagrama de Casos de Uso](./Diagramas/Casos_de_Uso_1.png)  
+![Diagrama de Casos de Uso](./Diagramas/Casos_de_Uso_2.png)
+
+---
+
+## 🗄️ Banco de Dados
+
+### Estrutura das Tabelas (DDL)
+<!-- Adicione aqui os scripts SQL de criação das tabelas -->
+
+### Inserção de Dados (DML)
+<!-- Adicione aqui os scripts SQL de inserção de dados -->
+
+---
+
+## ⚙️ Como Executar
+<!-- Explique aqui como rodar o projeto ou executar os scripts SQL -->
+
+---
+
+## 📌 Observações
+<!-- Adicione aqui quaisquer observações importantes sobre o projeto -->
+
+---
+
+## 📚 Referências
+<!-- Adicione links ou referências que foram usadas no projeto -->
+
