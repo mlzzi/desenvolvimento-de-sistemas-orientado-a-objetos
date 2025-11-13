@@ -46,7 +46,7 @@ O grupo deve se organizar para criar o arquivo de documentação (README.md) e a
 
 - Os diagramas criados na fase 1, em formato Markdown.
 
-# Projeto de Sistema de Cadastros
+# Projeto de Sistema de Cadastros Universidade.
 
 ## 🔹 Descrição do Projeto
 <!-- Adicione aqui a descrição do projeto -->
