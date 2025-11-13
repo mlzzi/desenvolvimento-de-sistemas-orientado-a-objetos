@@ -59,7 +59,12 @@ O grupo deve se organizar para criar o arquivo de documentação (README.md) e a
 ---
 
 ## 👥 Integrantes do Grupo
-<!-- Coloque aqui os nomes dos integrantes -->
+Amaury Serpa Santos Neto 
+Diego Paladini Machado 
+Diogo Oliveira Rodrigues 
+Erika Kívia Santos Barbosa 
+Murilo Luzzi Do Couto 
+Ricardo Bertoldo 
 
 ---
 
