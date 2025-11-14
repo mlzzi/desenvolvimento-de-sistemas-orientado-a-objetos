@@ -89,8 +89,8 @@ Ricardo Bertoldo
 
 ## 📊 Diagramas da Fase 1
 <!-- Adicione aqui os diagramas de casos de uso -->
-![Diagrama de Casos de Uso](./Diagramas/Casos_de_Uso_1.png)  
-![Diagrama de Casos de Uso](./Diagramas/Casos_de_Uso_2.png)
+![Diagrama de Casos de Uso](./diagramas_1a_entrega/diagrama_casos_de_uso.jpg)  
+![Diagrama de Classe](./diagramas_1a_entrega/diagrama_de_classe.png)
 
 ---
 
