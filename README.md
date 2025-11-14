@@ -115,5 +115,9 @@ Ricardo Bertoldo
 ---
 
 ## 📚 Referências
-<!-- Adicione links ou referências que foram usadas no projeto -->
+-	FOWLER, M. UML essencial: um breve guia para a linguagem-padrão de modelagem de objetos. Porto Alegre: Bookman, 2005.  
+-	LARMAN, C.; SALGADO, L. A. M. Utilizando UML e padrões: uma Introdução à Análise e ao Projeto Orientado a Objetos e ao Processamento Unificado. Porto Alegre: Bookman. 2000.  
+-	PRESSMAN, R S. Engenharia de software. Rio de Janeiro: McGraw-Hill, 2006.   
+-	SOMMERVILLE, Ian. Engenharia de software. 10. ed. São Paulo: Pearson, 2019.   
+
 
