@@ -114,7 +114,7 @@ O arquivo contém:
 ### Banco de Dados
 1. Certifique-se de ter o MySQL instalado
 2. Execute o arquivo `script.sql` em seu cliente MySQL preferido
-3. O script criará automaticamente o banco de dados "Univercidade" e todas as tabelas necessárias
+3. O script criará automaticamente o banco de dados "universidade" e todas as tabelas necessárias
 
 ### Estrutura do Projeto
 ```

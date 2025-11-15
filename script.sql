@@ -5,10 +5,10 @@
 
 -- DDL (Linguagem de Definição de Dados)
 -- 1. Cria o banco de dados
-CREATE DATABASE IF NOT EXISTS Univercidade;
+CREATE DATABASE IF NOT EXISTS universidade;
 
 -- 2. Seleciona o banco de dados para uso
-USE Univercidade;
+USE universidade;
 
 -- 3. Tabela Pessoa_Fisica
 CREATE TABLE Pessoa_Fisica (
@@ -83,11 +83,11 @@ ALTER TABLE Professores MODIFY COLUMN departamento VARCHAR(75);
 -- Inserção de Pessoas Físicas (Professores e Alunos)
 INSERT INTO Pessoa_Fisica (nome, cpf, data_nascimento, endereco, telefone, email) VALUES
 -- 5 Professores
-('Ana Maria Silva', '11111111111', '1975-05-10', 'Rua Alfa, 100', '(11) 9876-5432', 'ana.silva@univercidade.br'),
-('Bruno Castro Oliveira', '22222222222', '1968-12-01', 'Av. Beta, 200', '(11) 8765-4321', 'bruno.castro@univercidade.br'),
-('Carla Dias Pereira', '33333333333', '1980-03-25', 'Rua Gama, 300', '(11) 7654-3210', 'carla.dias@univercidade.br'),
-('David Lima Santos', '44444444444', '1970-08-15', 'Av. Delta, 400', '(11) 6543-2109', 'david.lima@univercidade.br'),
-('Erica Souza Costa', '55555555555', '1979-11-20', 'Rua Epsilon, 500', '(11) 5432-1098', 'erica.souza@univercidade.br'),
+('Ana Maria Silva', '11111111111', '1975-05-10', 'Rua Alfa, 100', '(11) 9876-5432', 'ana.silva@universidade.br'),
+('Bruno Castro Oliveira', '22222222222', '1968-12-01', 'Av. Beta, 200', '(11) 8765-4321', 'bruno.castro@universidade.br'),
+('Carla Dias Pereira', '33333333333', '1980-03-25', 'Rua Gama, 300', '(11) 7654-3210', 'carla.dias@universidade.br'),
+('David Lima Santos', '44444444444', '1970-08-15', 'Av. Delta, 400', '(11) 6543-2109', 'david.lima@universidade.br'),
+('Erica Souza Costa', '55555555555', '1979-11-20', 'Rua Epsilon, 500', '(11) 5432-1098', 'erica.souza@universidade.br'),
 -- 15 Alunos
 ('Fernando Alves', '66666666666', '2000-01-01', 'Rua da Paz, 1', '(11) 1234-5678', 'fernando.alves@aluno.br'),
 ('Giovana Rocha', '77777777777', '2001-02-02', 'Av. do Sol, 2', '(11) 2345-6789', 'giovana.rocha@aluno.br'),
