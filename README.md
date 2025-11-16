@@ -1,6 +1,6 @@
 # Senac | Disciplina de PI | Grupo 16
 
-## 3º Entrega do Projeto Integrador
+## 2º Entrega do Projeto Integrador
 
 ### Tema: Sistema de Cadastros Universidade - Protótipo Funcional
 
