@@ -11,7 +11,7 @@ A UML permite que desenvolvedores visualizem o que foi projetado em diagramas pa
 
 ### Enunciado
 
-A terceira entrega do Projeto Integrador consiste na implementação funcional do sistema modelado nas fases anteriores, desenvolvendo um protótipo completo com backend (API REST) e frontend (aplicação web).
+A segunda entrega do Projeto Integrador consiste na implementação funcional do sistema modelado nas fases anteriores, desenvolvendo um protótipo completo com backend (API REST) e frontend (aplicação web).
 
 ---
 
