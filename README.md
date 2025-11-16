@@ -211,7 +211,7 @@ Ricardo Bertoldo
 
 2. **Navegue para o diretório do backend**
    ```bash
-   cd sistema-cadastros
+   cd backend
    ```
 
 3. **Execute a aplicação**
@@ -270,7 +270,6 @@ Ricardo Bertoldo
 - **Constraints**: Chaves únicas e validações
 
 ### **Scripts Disponíveis**
-📄 **[dados-exemplo.sql](./dados-exemplo.sql)** - Inserção de dados de teste  
 📄 **[script.sql](./script.sql)** - Scripts completos do banco
 
 ### **Dados de Exemplo**
@@ -298,7 +297,7 @@ INSERT INTO pessoa_juridica (razao_social, cnpj, endereco, telefone, email, cont
 
 ```
 sistema-cadastros/
-├── 📂 sistema-cadastros/ (Backend - Spring Boot)
+├── 📂 backend/ (Backend - Spring Boot)
 │   ├── src/main/java/com/universidade/sistema_cadastros/
 │   │   ├── 📂 controller/ (Controladores REST)
 │   │   ├── 📂 entity/ (Entidades JPA)
