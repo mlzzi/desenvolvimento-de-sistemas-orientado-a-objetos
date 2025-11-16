@@ -323,7 +323,7 @@ sistema-cadastros/
 │
 ├── 📂 prototipo/ (Imagens dos protótipos)
 ├── 📂 diagramas_1a_entrega/ (Diagramas UML)
-├── dados-exemplo.sql (Scripts de exemplo)
+├── scritpt.sql (Scripts de exemplo)
 └── README.md
 ```
 
