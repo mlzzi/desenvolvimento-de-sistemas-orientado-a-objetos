@@ -323,7 +323,6 @@ sistema-cadastros/
 │
 ├── 📂 prototipo/ (Imagens dos protótipos)
 ├── 📂 diagramas_1a_entrega/ (Diagramas UML)
-├── 📂 postman/ (Collection para testes)
 ├── dados-exemplo.sql (Scripts de exemplo)
 └── README.md
 ```
@@ -338,12 +337,7 @@ sistema-cadastros/
 3. Vá para "Ver Cadastros" e teste os filtros
 4. Teste as validações (CPF/CNPJ duplicados)
 
-### **2. Teste via API (Postman/Insomnia)**
-- Importe a collection disponível em `/postman/`
-- Teste todos os endpoints CRUD
-- Verifique validações e tratamento de erros
-
-### **3. Verificação no Banco H2**
+### **2. Verificação no Banco H2**
 - Acesse o H2 Console
 - Execute consultas SQL para verificar dados
 - Teste integridade referencial
